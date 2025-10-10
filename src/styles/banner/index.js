@@ -21,7 +21,7 @@ export const BannerContent = styled(Box)(() => ({
     flexdirection: 'column',
     justifyContent: 'center',
     maxWidth: '75%',
-    padding: '15rem 0rem 0rem 1rem',
+    padding: '4rem 0rem 0rem 1rem',
 }));
 
 export const BannerTitle = styled(Typography)(() => ({  
@@ -34,7 +34,7 @@ export const BannerTitle = styled(Typography)(() => ({
     fontFamily: 'Impact, sans-serif',
     WebkitTextStroke: '1px black' ,
     textAlign: 'center',
-    opacity: 1,
+
 }));
 
 export const BannerImage = styled('img')(() => ({
