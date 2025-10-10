@@ -1,9 +1,10 @@
 import { createTheme } from "@mui/material";
 
 export const Colors = {
-    primary: "#317ff9",
+    primary: "#16171aff",
     secondary: "#fffffff3",
-    dark: "#3239b1",
+    dark: "#000000ff",
+    light: "#b8b8b8ff",
 
 
 };
@@ -15,7 +16,11 @@ const theme = createTheme({
         },
         secondary: {
             main: Colors.secondary
-        }
+        },
+        light: {
+            main: Colors.light
+        },
+
     }
 });
 

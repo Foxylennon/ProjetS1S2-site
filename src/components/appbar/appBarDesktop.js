@@ -31,7 +31,7 @@ const [anchorElNav] = React.useState(null);
       <Container maxWidth="breakpoint">
         <Toolbar disableGutters>
           <AdbIcon sx={{mr: 2 }} />
-          <AppbarHeader variant="h4" noWrap component="a">CRO</AppbarHeader>
+          <AppbarHeader variant="h4" noWrap component="a">CHRO</AppbarHeader>
           <Box sx={{mr: 3}}> </Box>
           <NavBox>
             <NavList pages={pages}/>
