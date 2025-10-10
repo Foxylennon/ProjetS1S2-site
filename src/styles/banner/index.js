@@ -39,10 +39,11 @@ export const BannerTitle = styled(Typography)(() => ({
 
 export const BannerImage = styled('img')(() => ({
 
-    width: '100%',
     height: '100%',
     objectFit: 'fill',
     overflow: 'hidden',
     opacity: 1,
+    justifyContent: 'center',
+
 }));
 
