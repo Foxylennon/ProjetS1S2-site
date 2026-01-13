@@ -44,6 +44,10 @@ export default function Content(){
         </Box>
           
         <Box sx={{ py: 4, px: 20,display: "flex", justifyContent: "flex-end", }}>
+          <Box sx={{flex: 1}}>
+
+          </Box>
+          
           <Box sx={{
             flex: 1,
             display: "flex",
@@ -64,7 +68,7 @@ export default function Content(){
             </Typography>
           </Box>
 
-          <Box sx={{flex: 1}}>
+          <Box sx={{flex: 2}}>
             <img src = {img2} style={{ 
               height: '80%', // L'image fait exactement 30px de haut
               width: 'auto'   // La largeur s'ajuste pour ne pas écraser l'image
