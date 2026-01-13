@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Foxylennon.github.io/Projets1s2-site/static/css/main.2640281a.css",
-    "main.js": "/Foxylennon.github.io/Projets1s2-site/static/js/main.77a4f2ba.js",
-    "static/js/453.5e90af72.chunk.js": "/Foxylennon.github.io/Projets1s2-site/static/js/453.5e90af72.chunk.js",
-    "static/media/banner.jpg": "/Foxylennon.github.io/Projets1s2-site/static/media/banner.eee65f834a56f504a3c7.jpg",
-    "static/media/STREZY BREAK REGULAR.otf": "/Foxylennon.github.io/Projets1s2-site/static/media/STREZY BREAK REGULAR.2d8577609e1128bf9c33.otf",
-    "static/media/Nano.png": "/Foxylennon.github.io/Projets1s2-site/static/media/Nano.bba4e45e075f0f458734.png",
-    "static/media/outfit-latin-400-normal.woff": "/Foxylennon.github.io/Projets1s2-site/static/media/outfit-latin-400-normal.72f8b6c4166f1d2268cf.woff",
-    "static/media/outfit-latin-400-normal.woff2": "/Foxylennon.github.io/Projets1s2-site/static/media/outfit-latin-400-normal.d5e5803d0c85b54aaaa1.woff2",
-    "static/media/outfit-latin-ext-400-normal.woff": "/Foxylennon.github.io/Projets1s2-site/static/media/outfit-latin-ext-400-normal.906838c3d2734b257465.woff",
-    "static/media/outfit-latin-ext-400-normal.woff2": "/Foxylennon.github.io/Projets1s2-site/static/media/outfit-latin-ext-400-normal.a15560ed108017192e3a.woff2",
-    "index.html": "/Foxylennon.github.io/Projets1s2-site/index.html",
-    "main.2640281a.css.map": "/Foxylennon.github.io/Projets1s2-site/static/css/main.2640281a.css.map",
-    "main.77a4f2ba.js.map": "/Foxylennon.github.io/Projets1s2-site/static/js/main.77a4f2ba.js.map",
-    "453.5e90af72.chunk.js.map": "/Foxylennon.github.io/Projets1s2-site/static/js/453.5e90af72.chunk.js.map"
+    "main.css": "/Projets1s2-site/static/css/main.b26f5ca1.css",
+    "main.js": "/Projets1s2-site/static/js/main.ffe98d82.js",
+    "static/js/453.5e90af72.chunk.js": "/Projets1s2-site/static/js/453.5e90af72.chunk.js",
+    "static/media/banner.jpg": "/Projets1s2-site/static/media/banner.eee65f834a56f504a3c7.jpg",
+    "static/media/STREZY BREAK REGULAR.otf": "/Projets1s2-site/static/media/STREZY BREAK REGULAR.2d8577609e1128bf9c33.otf",
+    "static/media/Nano.png": "/Projets1s2-site/static/media/Nano.bba4e45e075f0f458734.png",
+    "static/media/outfit-latin-400-normal.woff": "/Projets1s2-site/static/media/outfit-latin-400-normal.72f8b6c4166f1d2268cf.woff",
+    "static/media/outfit-latin-400-normal.woff2": "/Projets1s2-site/static/media/outfit-latin-400-normal.d5e5803d0c85b54aaaa1.woff2",
+    "static/media/outfit-latin-ext-400-normal.woff": "/Projets1s2-site/static/media/outfit-latin-ext-400-normal.906838c3d2734b257465.woff",
+    "static/media/outfit-latin-ext-400-normal.woff2": "/Projets1s2-site/static/media/outfit-latin-ext-400-normal.a15560ed108017192e3a.woff2",
+    "index.html": "/Projets1s2-site/index.html",
+    "main.b26f5ca1.css.map": "/Projets1s2-site/static/css/main.b26f5ca1.css.map",
+    "main.ffe98d82.js.map": "/Projets1s2-site/static/js/main.ffe98d82.js.map",
+    "453.5e90af72.chunk.js.map": "/Projets1s2-site/static/js/453.5e90af72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2640281a.css",
-    "static/js/main.77a4f2ba.js"
+    "static/css/main.b26f5ca1.css",
+    "static/js/main.ffe98d82.js"
   ]
 }
