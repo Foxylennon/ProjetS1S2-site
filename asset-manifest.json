@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Projets1s2-site/static/css/main.b26f5ca1.css",
-    "main.js": "/Projets1s2-site/static/js/main.ffe98d82.js",
-    "static/js/453.5e90af72.chunk.js": "/Projets1s2-site/static/js/453.5e90af72.chunk.js",
-    "static/media/banner.jpg": "/Projets1s2-site/static/media/banner.eee65f834a56f504a3c7.jpg",
-    "static/media/STREZY BREAK REGULAR.otf": "/Projets1s2-site/static/media/STREZY BREAK REGULAR.2d8577609e1128bf9c33.otf",
-    "static/media/Nano.png": "/Projets1s2-site/static/media/Nano.bba4e45e075f0f458734.png",
-    "static/media/outfit-latin-400-normal.woff": "/Projets1s2-site/static/media/outfit-latin-400-normal.72f8b6c4166f1d2268cf.woff",
-    "static/media/outfit-latin-400-normal.woff2": "/Projets1s2-site/static/media/outfit-latin-400-normal.d5e5803d0c85b54aaaa1.woff2",
-    "static/media/outfit-latin-ext-400-normal.woff": "/Projets1s2-site/static/media/outfit-latin-ext-400-normal.906838c3d2734b257465.woff",
-    "static/media/outfit-latin-ext-400-normal.woff2": "/Projets1s2-site/static/media/outfit-latin-ext-400-normal.a15560ed108017192e3a.woff2",
-    "index.html": "/Projets1s2-site/index.html",
-    "main.b26f5ca1.css.map": "/Projets1s2-site/static/css/main.b26f5ca1.css.map",
-    "main.ffe98d82.js.map": "/Projets1s2-site/static/js/main.ffe98d82.js.map",
-    "453.5e90af72.chunk.js.map": "/Projets1s2-site/static/js/453.5e90af72.chunk.js.map"
+    "main.css": "/ProjetS1S2-site/static/css/main.2c712f7f.css",
+    "main.js": "/ProjetS1S2-site/static/js/main.96aeb7bb.js",
+    "static/js/453.5e90af72.chunk.js": "/ProjetS1S2-site/static/js/453.5e90af72.chunk.js",
+    "static/media/banner.jpg": "/ProjetS1S2-site/static/media/banner.eee65f834a56f504a3c7.jpg",
+    "static/media/STREZY BREAK REGULAR.otf": "/ProjetS1S2-site/static/media/STREZY BREAK REGULAR.2d8577609e1128bf9c33.otf",
+    "static/media/Nano.png": "/ProjetS1S2-site/static/media/Nano.bba4e45e075f0f458734.png",
+    "static/media/outfit-latin-400-normal.woff": "/ProjetS1S2-site/static/media/outfit-latin-400-normal.72f8b6c4166f1d2268cf.woff",
+    "static/media/outfit-latin-400-normal.woff2": "/ProjetS1S2-site/static/media/outfit-latin-400-normal.d5e5803d0c85b54aaaa1.woff2",
+    "static/media/outfit-latin-ext-400-normal.woff": "/ProjetS1S2-site/static/media/outfit-latin-ext-400-normal.906838c3d2734b257465.woff",
+    "static/media/outfit-latin-ext-400-normal.woff2": "/ProjetS1S2-site/static/media/outfit-latin-ext-400-normal.a15560ed108017192e3a.woff2",
+    "index.html": "/ProjetS1S2-site/index.html",
+    "main.2c712f7f.css.map": "/ProjetS1S2-site/static/css/main.2c712f7f.css.map",
+    "main.96aeb7bb.js.map": "/ProjetS1S2-site/static/js/main.96aeb7bb.js.map",
+    "453.5e90af72.chunk.js.map": "/ProjetS1S2-site/static/js/453.5e90af72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b26f5ca1.css",
-    "static/js/main.ffe98d82.js"
+    "static/css/main.2c712f7f.css",
+    "static/js/main.96aeb7bb.js"
   ]
 }
