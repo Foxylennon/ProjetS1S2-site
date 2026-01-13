@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/css/main.28d8fbc1.css",
+    "main.js": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/js/main.d68c2d59.js",
+    "static/js/453.5e90af72.chunk.js": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/js/453.5e90af72.chunk.js",
+    "static/media/banner.jpg": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/media/banner.eee65f834a56f504a3c7.jpg",
+    "static/media/STREZY BREAK REGULAR.otf": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/media/STREZY BREAK REGULAR.2d8577609e1128bf9c33.otf",
+    "static/media/Nano.png": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/media/Nano.bba4e45e075f0f458734.png",
+    "static/media/outfit-latin-400-normal.woff": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/media/outfit-latin-400-normal.72f8b6c4166f1d2268cf.woff",
+    "static/media/outfit-latin-400-normal.woff2": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/media/outfit-latin-400-normal.d5e5803d0c85b54aaaa1.woff2",
+    "static/media/outfit-latin-ext-400-normal.woff": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/media/outfit-latin-ext-400-normal.906838c3d2734b257465.woff",
+    "static/media/outfit-latin-ext-400-normal.woff2": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/media/outfit-latin-ext-400-normal.a15560ed108017192e3a.woff2",
+    "index.html": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/index.html",
+    "main.28d8fbc1.css.map": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/css/main.28d8fbc1.css.map",
+    "main.d68c2d59.js.map": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/js/main.d68c2d59.js.map",
+    "453.5e90af72.chunk.js.map": "/%3CFoxylennon%3E.github.io/%3CProjets1s2-site%3E,/static/js/453.5e90af72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28d8fbc1.css",
+    "static/js/main.d68c2d59.js"
+  ]
+}
