@@ -1,7 +1,7 @@
-import { Box, Typography, useMediaQuery, useTheme } from "@mui/material";
+import { Box, Container, Typography, useMediaQuery, useTheme } from "@mui/material";
 import { BannerContainer, BannerContent, BannerTitle, BannerImage } from "../../styles/banner";
-import videoBG from '../../assets/videoBG.mp4';
-import travaux from '../../assets/travaux.png';
+import travaux from '../../assets/banner.jpg';
+import { Colors } from "../../styles/theme";
 
 export default function Banner(){
 
@@ -12,13 +12,26 @@ export default function Banner(){
     return(
 
         <BannerContainer>
-            <div className="overlay"></div>
-            {/*<video src = {videoBG} autoPlay loop muted></video>*/}
-            <BannerImage src={travaux} />
-            <BannerContent>
-                <BannerTitle variant ="h6"> A GAME WITH ONE EXTRA CHROMOSOME...<br /> BUT IT’S THE FUN ONE</BannerTitle>
-            </BannerContent>
+            
+            <Box
+                sx={{
+                    backgroundImage: `url(${travaux})`,
+                    backgroundSize: 'cover', 
+                    backgroundPosition: 'center',
+                    backgroundRepeat: 'no-repeat',
+                    width: '100%',
+                    minheight: '400px', // Use height instead of minHeight temporarily
+                    position: 'relative',
+                    backgroundAttachment: 'fixed',
+
+                }}
+            >
+            </Box>
+
+            
         </BannerContainer>
+
+
         
     );
 };

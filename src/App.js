@@ -1,8 +1,10 @@
-import { AppBar, Button, Container, ThemeProvider } from '@mui/material';
+import { Container, ThemeProvider, } from '@mui/material';
 import { useEffect } from 'react';
 import theme from './styles/theme';
 import Appbar from './components/appbar';
 import Banner from './components/Banner';
+import Content from './components/Content';
+
 
 function App() {
 
@@ -21,6 +23,10 @@ function App() {
 
         {/*Banner*/}
         <Banner />
+
+        {/*Content*/}
+        <Content />
+          
       </Container>
     </ThemeProvider>
 

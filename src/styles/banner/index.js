@@ -4,13 +4,13 @@ import "../../assets/fonts/STREZY BREAK REGULAR.otf";
 
 
 
+
 export const BannerContainer = styled(Box)(() => ({
 
     display: 'flex',
-    justifyContent: 'center',
     width: '100%',
     height: 'calc(100vh - 84px)', //84px = la hauteur réelle de AppBar
-    backgroundColor: Colors.light,
+    backgroundColor: Colors.dark,
 
 }));
 
@@ -37,6 +37,19 @@ export const BannerTitle = styled(Typography)(() => ({
 
 }));
 
+export const BannerText = styled(Typography)(() => ({  
+
+    lineHeight: 1.5,
+    fontSize: '2rem',
+    marginBottom: '2rem',
+    color: Colors.secondary,
+    fontWeight: 800,
+    fontFamily: 'Impact, sans-serif',
+    WebkitTextStroke: '1px black' ,
+    textAlign: 'center',
+
+}));
+
 export const BannerImage = styled('img')(() => ({
 
     height: '100%',
@@ -44,6 +57,6 @@ export const BannerImage = styled('img')(() => ({
     overflow: 'hidden',
     opacity: 1,
     justifyContent: 'center',
-
+    
 }));
 

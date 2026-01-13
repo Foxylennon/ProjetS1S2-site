@@ -19,6 +19,8 @@ export const NavBox = styled(Box)(() => ({
     mr: 2    
 }));
 
+
+
 export default function NavList({pages}) {
     return (
         <>
