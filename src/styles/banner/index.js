@@ -40,12 +40,12 @@ export const BannerTitle = styled(Typography)(() => ({
 export const BannerText = styled(Typography)(() => ({  
 
     lineHeight: 1.5,
-    fontSize: '2rem',
+    fontSize: '4rem',
     marginBottom: '2rem',
     color: Colors.secondary,
-    fontWeight: 800,
+    fontWeight: 600,
     fontFamily: 'Impact, sans-serif',
-    WebkitTextStroke: '1px black' ,
+   
     textAlign: 'center',
 
 }));
